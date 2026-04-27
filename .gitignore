@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files (don't commit raw outputs, do commit final figures manually)
+results/*.h5
+results/_temp_*
+*.log
+
+# Compiled artifacts (acados generates these inside its build dirs)
+build/
+*.so
