@@ -38,8 +38,8 @@ class FollowerConfig:
     k_w: float = 1.5            # rad/s per rad of yaw error
 
     # Saturation limits — match the MPC's trained range
-    v_max: float = 0.6          # m/s — comfortable trot speed
-    w_max: float = 0.8          # rad/s
+    v_max: float = 0.2         # m/s — comfortable trot speed
+    w_max: float = 0.4          # rad/s
 
     # Tolerances for "waypoint reached"
     pos_tol: float = 0.20       # m
