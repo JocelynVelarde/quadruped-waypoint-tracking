@@ -76,7 +76,3 @@ This project depends on:
 
 The waypoint follower, trajectory library, integration runner, and analysis
 in this repository are this project's contribution.
-
-## Author
-
-Jocelyn Velarde
