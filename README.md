@@ -3,6 +3,8 @@
 A waypoint-based trajectory follower for quadruped robots, built on top of
 [Quadruped-PyMPC](https://github.com/iit-DLSLab/Quadruped-PyMPC).
 
+If you're Nezih please refer to `/results` for a markdown file with the graph analysis
+
 ## What this does
 
 Implements:
