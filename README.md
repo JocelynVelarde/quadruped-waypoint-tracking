@@ -5,6 +5,9 @@ A waypoint-based trajectory follower for quadruped robots, built on top of
 
 If you're Nezih please refer to `/results` for a markdown file with the graph analysis
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/0b270739-5ee0-4f1d-a4e5-2c54bc8628dc" />
+
+
 ## What this does
 
 Implements:
